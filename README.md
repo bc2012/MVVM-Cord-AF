@@ -7,16 +7,16 @@ This repository contains the results of that exercise so that it may be of use i
 
 Credit due to all the following sources from which the solution was devised and appropriated:
 
-Staring Project
+Staring Project <br />
 https://www.raywenderlich.com/6587213-alamofire-5-tutorial-for-ios-getting-started
 
-MVVM
-https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm
-https://codepen.io/wangdu1005/pen/abboLZX
+MVVM <br />
+https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm <br />
+https://codepen.io/wangdu1005/pen/abboLZX <br />
 https://benoitpasquier.com/ios-swift-mvvm-pattern/
 
-Coordinator
+Coordinator <br />
 https://www.youtube.com/watch?v=7HgbcTqxoN4
 
-AlamoFire was installed via CocoaPods
+AlamoFire was installed via CocoaPods <br />
 https://www.raywenderlich.com/7076593-cocoapods-tutorial-for-swift-getting-started
